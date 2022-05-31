@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projets on KEITA Moussa</title>
+    <link>https://moussakeita.github.io/portfolio_cv/post/</link>
+    <description>Recent content in Projets on KEITA Moussa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://moussakeita.github.io/portfolio_cv/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: handwritten digit recognition neural network</title>
+      <link>https://moussakeita.github.io/portfolio_cv/post/project-2/</link>
+      <pubDate>Fri, 10 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://moussakeita.github.io/portfolio_cv/post/project-2/</guid>
+      <description>Il s&amp;rsquo;agit d&amp;rsquo;un réseau neuronal convolutif séquentiel à 5 ​​couches pour la reconnaissance de chiffres formés sur un jeu de données MNIST.
+  J&amp;rsquo;ai choisi de le construire avec l&amp;rsquo;API keras (backend Tensorflow) qui est très intuitive.
+  Tout d&amp;rsquo;abord, je préparerai les données (images de chiffres manuscrits) puis je me concentrerai sur la modélisation et l&amp;rsquo;évaluation CNN.
+  J&amp;rsquo;ai atteint 99,371% de précision avec ce CNN entraîné en 5 mn avec le GPU de google colab.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Mask Recognition with Deep Learning et open cv</title>
+      <link>https://moussakeita.github.io/portfolio_cv/post/project-4/</link>
+      <pubDate>Wed, 10 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://moussakeita.github.io/portfolio_cv/post/project-4/</guid>
+      <description>Ce Projet developpe une méthode de création d&amp;rsquo;un détecteur de masque facial à l&amp;rsquo;aide de Python, Keras, Tensorflow et OpenCV. La technique Deep Learning utilisée ici est le &amp;ldquo;Transfer Learning&amp;rdquo; dans laquelle un modèle développé pour une tâche est réutilisé comme point de départ d&amp;rsquo;un modèle sur une deuxième tâche. MobileNet-v2 est le modele Convolutional Neural Network utilisé. Avec d&amp;rsquo;autres améliorations, ces types de modèles pourraient être intégrés à des caméras de vidéosurveillance ou d&amp;rsquo;autres types de caméras pour détecter et identifier les personnes sans masque.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Analyse et Prediction du  Cas Covid-19 du Maroc</title>
+      <link>https://moussakeita.github.io/portfolio_cv/post/project-5/</link>
+      <pubDate>Wed, 10 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://moussakeita.github.io/portfolio_cv/post/project-5/</guid>
+      <description>L&amp;rsquo;épidémie de coronavirus a pris le monde d&amp;rsquo;assaut. Cela a causé beaucoup de difficultés aux gens du monde entier. Ce Projet se concentre sur l&amp;rsquo;émergence du Coronavirus (Covid-19) et l&amp;rsquo;impact qu&amp;rsquo;il a créé dans le monde. Vous comprendrez comment les cas de coronavirus ont augmenté jusqu&amp;rsquo;à présent, les décès signalés et les récupérations effectuées Vous examinerez une analyse utilisant l&amp;rsquo;apprentissage automatique(Machine Learning) en Python pour prédire le nombre de cas à venir pour les 20 prochains jours.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Prediction des survivants du Titanic avec MLlib SPark</title>
+      <link>https://moussakeita.github.io/portfolio_cv/post/project-6/</link>
+      <pubDate>Wed, 10 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://moussakeita.github.io/portfolio_cv/post/project-6/</guid>
+      <description>Le but de cette étude est de créer un modèle de prédiction de la survie des passagers du Titanic suite à son naufrage.. Pour ce faire nous allons proceder comme suite: Lecture du jeu de données (format csv) à partir de HDFS Ici, j&amp;rsquo;utilise un dataset titanic disponible sur kaggle https://www.kaggle.com/competitions/titanic/data. Analyse et Exploration des données. Pré-traitement des données Dans un premier temps j&amp;rsquo;ai entamé la creation d&amp;rsquo;un premier modèle de Machine Learning(Logistc Regression).</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Chatbot Assistant</title>
+      <link>https://moussakeita.github.io/portfolio_cv/post/project-1/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://moussakeita.github.io/portfolio_cv/post/project-1/</guid>
+      <description>Un chatbot, appelé parfois assistant virtuel, est un programme informatique qui simule une conversation (« chat » en anglais) avec une personne, à l&amp;rsquo;écrit ou à l&amp;rsquo;oral. Pour ce projet j&amp;rsquo;ai construis un assistant virtuel capable de repondre par Ecrit une personne lorsqu&amp;rsquo;on lui pose une question dont il a connaissance. Pour ce projet j&amp;rsquo;ai utilisé un fichier json qui va jouer le rôle d&amp;rsquo;une base de données, ensuite grâce à des techniques de NLP(Natural Langage Processsing) j&amp;rsquo;ai tokenizé les données avant de les passées à mon réseau de neurone Deep Learning pour enfin faire une prediction .</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Face Recognition open cv</title>
+      <link>https://moussakeita.github.io/portfolio_cv/post/project-3/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://moussakeita.github.io/portfolio_cv/post/project-3/</guid>
+      <description>Le but de ce Algorithme est de rendre la reconnaissance faciale (identifier un visage) assez simple. Que ce soit pour la sécurité, les maisons intelligentes ou autre chose, le domaine d&amp;rsquo;application de la reconnaissance faciale est assez vaste, alors apprenons comment nous pouvons utiliser cette technologie. Ce Algorithme est construis à partir du library face_recognition de python avec openCV    Lien to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
